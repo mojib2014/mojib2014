@@ -8,7 +8,7 @@ I have an associate degree in medicine. I'm really interested in technology & so
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Mochita-store an online e_commerce fullstack app (MERN Stack).
+- 🔭 I’m currently Java/Angular full-stack software development with Revature.
 - 🌱 I’m currently learning and working with Revature (An Awesome Company).
 - 👯 I’m looking to collaborate on Expressjs, Nextjs, Nodejs
 - 🤔 I’m looking for help with...
